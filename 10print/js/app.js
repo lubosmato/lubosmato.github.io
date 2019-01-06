@@ -1,6 +1,6 @@
 const canvasWidth = 640;
 const canvasHeight = 640;
-const lineDelta = 4;
+const lineDelta = 8;
 const drawCount = 1;
 let randomChance = 0.5;
 
