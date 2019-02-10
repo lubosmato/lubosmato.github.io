@@ -112,11 +112,11 @@ class Circle {
     draw(center) {
         let tip = this.calculateTip(center);
 
-        stroke(220);
+        stroke(0, 0, 0, 25);
         noFill();
         ellipse(center.x, center.y, this._amplitude * 2 * amplitudeScale, this._amplitude * 2 * amplitudeScale);
         line(center.x, center.y, tip.x, tip.y);
-        fill(0);
+        fill(255, 0, 0, 25);
         ellipse(tip.x, tip.y, pointSize, pointSize);
 
         return tip;
