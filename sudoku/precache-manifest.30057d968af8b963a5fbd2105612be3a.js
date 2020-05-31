@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/372d2dd999fb533928ba.worker.js"
   },
   {
-    "revision": "0d99d0dcccd3a6fa393a",
+    "revision": "648a5645383ff99ec8ed",
     "url": "/sudoku/css/1.bb66e91a.css"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/css/3.a9c74c6f.css"
   },
   {
-    "revision": "b7eb79dbe77d933cb91e",
+    "revision": "d7d58504e1640a18cd6a",
     "url": "/sudoku/css/app.800f47ff.css"
   },
   {
@@ -104,12 +104,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.12a47ed5.woff2"
   },
   {
-    "revision": "829c090cc48a45713e01428ca3a1a936",
+    "revision": "7c167e3695c2a093dfde093d34264e44",
     "url": "/sudoku/index.html"
   },
   {
-    "revision": "0d99d0dcccd3a6fa393a",
-    "url": "/sudoku/js/1.0d99d0dc.js"
+    "revision": "648a5645383ff99ec8ed",
+    "url": "/sudoku/js/1.648a5645.js"
   },
   {
     "revision": "98fd6f4fd9a2d703ebe9",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/js/4.1fcd52bd.js"
   },
   {
-    "revision": "b7eb79dbe77d933cb91e",
-    "url": "/sudoku/js/app.f834f37c.js"
+    "revision": "d7d58504e1640a18cd6a",
+    "url": "/sudoku/js/app.516a6d4d.js"
   },
   {
     "revision": "63831a60cd97cc7fad1f",
