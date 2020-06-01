@@ -4,20 +4,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/039aed42e2d183a8dfb4.worker.js"
   },
   {
-    "revision": "c21e6d563d01ceb8ad0b4308a9c7928c",
-    "url": "/sudoku/372d2dd999fb533928ba.worker.js"
+    "revision": "ac0507c73e050ef35df904d4039d1cde",
+    "url": "/sudoku/93281ef67a9fa9d8d96b.worker.js"
   },
   {
-    "revision": "713af4583b3f5c5c505f",
-    "url": "/sudoku/css/1.737078ec.css"
+    "revision": "fc545a0a3067cd801841",
+    "url": "/sudoku/css/1.35f64ac8.css"
   },
   {
-    "revision": "a4578817cbb2e1b45262",
-    "url": "/sudoku/css/3.241d859e.css"
+    "revision": "4a3f329ad40d4fa0e23c",
+    "url": "/sudoku/css/3.f3385ee9.css"
   },
   {
-    "revision": "5435815bef707a524fab",
-    "url": "/sudoku/css/app.07acb700.css"
+    "revision": "5612968dd4944012080f",
+    "url": "/sudoku/css/app.fe52114d.css"
   },
   {
     "revision": "ed3ff13e6453434370d0d0a9f4ebc734",
@@ -104,24 +104,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.12a47ed5.woff2"
   },
   {
-    "revision": "8155693695df62c4733253e8d9b366bf",
+    "revision": "e391a6fc2669297e0b3cf29df172b2bd",
     "url": "/sudoku/index.html"
   },
   {
-    "revision": "713af4583b3f5c5c505f",
-    "url": "/sudoku/js/1.713af458.js"
+    "revision": "fc545a0a3067cd801841",
+    "url": "/sudoku/js/1.fc545a0a.js"
   },
   {
-    "revision": "a4578817cbb2e1b45262",
-    "url": "/sudoku/js/3.a4578817.js"
+    "revision": "4a3f329ad40d4fa0e23c",
+    "url": "/sudoku/js/3.4a3f329a.js"
   },
   {
     "revision": "1fcd52bd9d6271299ca6",
     "url": "/sudoku/js/4.1fcd52bd.js"
   },
   {
-    "revision": "5435815bef707a524fab",
-    "url": "/sudoku/js/app.7588f889.js"
+    "revision": "5612968dd4944012080f",
+    "url": "/sudoku/js/app.066d3424.js"
   },
   {
     "revision": "63831a60cd97cc7fad1f",

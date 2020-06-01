@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sudoku/precache-manifest.b7b2daee790fc14d384ac4ecd0270b1b.js"
+  "/sudoku/precache-manifest.75b400123de3437b1574034a2ac1c9c8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sudoku-solver"});
