@@ -1,0 +1,101 @@
+[
+  {
+    "link": "https://github.com/lubosmato/robin",
+    "image": "/img/robin.jpg",
+    "animatedImage": "/img/robin-animation.gif",
+    "title": "RoBin - robotic bin opener",
+    "description": "Motivation: Trash bins with automatic cover opening by sensing motion are too expensive so I decided to build cheaper on my own which eventually cost more",
+    "sourceLink": "https://github.com/lubosmato/robin",
+    "used": [
+      "C++",
+      "3D printing",
+      "Fusion 360",
+      "Arduino",
+      "Electronics",
+      "HC-SR04"
+    ]
+  },
+  {
+    "link": "https://lubosmato.github.io/sudoku/#/",
+    "image": "/img/sudoku.jpg",
+    "animatedImage": "/img/sudoku-animation.gif",
+    "title": "Sudoku solver and generator",
+    "description": "Motivation: Because I am really bad sudoku solver",
+    "sourceLink": "https://github.com/lubosmato/sudoku-solver",
+    "used": [
+      "Vue.js",
+      "Quasar",
+      "OpenCV.js",
+      "Tesseract.js",
+      "PWA",
+      "Web workers",
+      "My sweat and blood"
+    ]
+  },
+  {
+    "link": "https://lubosmato.github.io/drawfft/",
+    "image": "/img/drawfft.jpg",
+    "animatedImage": "/img/drawfft-animation.gif",
+    "title": "Draw with Fourier",
+    "description": "Drawing images with harmonics of Fourier series",
+    "sourceLink": "https://github.com/lubosmato/draw-fft",
+    "used": [
+      "p5.js",
+      "Python",
+      "FFT",
+      "Lot of math"
+    ]
+  },
+  {
+    "link": "https://lubosmato.github.io/flappy/",
+    "image": "/img/flappy.jpg",
+    "animatedImage": "/img/flappy-animation.gif",
+    "title": "Flappy bird controlled by AI",
+    "description": "Bird is controlled by AI which is taught by neural evolution learning technique. Motivation: I can finally win in this game!",
+    "sourceLink": "https://github.com/lubosmato/flappy-bird-neural-evolution",
+    "used": [
+      "neataptic.js",
+      "p5.js",
+      "Neural evolution",
+      ""
+    ]
+  },
+  {
+    "link": "https://www.stifmeister.cz/",
+    "image": "/img/steve.jpg",
+    "animatedImage": "/img/steve-animation.gif",
+    "title": "My first PWA: Stifmeister Steve",
+    "description": "Sound buttons app with Steve Stifmeister's catchphrases (in Czech) from American Pie movie",
+    "sourceLink": "https://github.com/lubosmato/steve",
+    "used": [
+      "Vue.js",
+      "Quasar",
+      "PWA",
+      "Lot of American Pie movies watching"
+    ]
+  },
+  {
+    "link": "https://lubosmato.github.io/10print/",
+    "image": "/img/10print.jpg",
+    "animatedImage": "/img/10print-animation.gif",
+    "title": "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+    "description": "Famous and pretty BASIC command",
+    "sourceLink": "https://github.com/lubosmato/lubosmato.github.io/tree/master/10print",
+    "used": [
+      "p5.js"
+    ]
+  },
+  {
+    "link": "https://github.com/lubosmato/pipeliner",
+    "image": "/img/pipeliner.png",
+    "animatedImage": "/img/pipeliner.png",
+    "title": "Pipeliner",
+    "description": "Pipeliner automates boring repetitive tasks with CRON-like scheduler. Motivation: Some web portals do not have RSS feed and I want to be informed when new article comes out.",
+    "sourceLink": "https://github.com/lubosmato/pipeliner",
+    "used": [
+      "Python",
+      "CRON",
+      "Pytest"
+    ]
+  }
+]
