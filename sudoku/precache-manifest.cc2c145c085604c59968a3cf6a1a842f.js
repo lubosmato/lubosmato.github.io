@@ -128,7 +128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sudoku/js/vendor.3224c779.js"
   },
   {
-    "revision": "62c8a82db52b23afd3c92b00cd3424ac",
+    "revision": "25677284241e24619dcb684aecc59880",
     "url": "/sudoku/manifest.json"
   },
   {
