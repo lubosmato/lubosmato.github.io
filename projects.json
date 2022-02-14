@@ -1,5 +1,18 @@
 [
   {
+    "link": "https://lubosmato.github.io/ascii-camera/",
+    "image": "/img/ascii-camera.png",
+    "animatedImage": "/img/ascii-camera.png",
+    "title": "ASCII Camera",
+    "description": "Motivation: It just look cool 🙂",
+    "sourceLink": "https://github.com/lubosmato/ascii-camera",
+    "used": [
+      "p5.js",
+      "TypeScript",
+      "Characters"
+    ]
+  },
+  {
     "link": "https://github.com/lubosmato/robin",
     "image": "/img/robin.jpg",
     "animatedImage": "/img/robin-animation.gif",
