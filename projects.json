@@ -1,5 +1,31 @@
 [
   {
+    "link": "https://grow.lubosmatejcik.cz/",
+    "image": "/img/grow-peppers-grow.png",
+    "animatedImage": "/img/grow-peppers-grow.png",
+    "title": "Grow Peppers, Grow!",
+    "description": "I am in love with chilli peppers so I had to create an IoT app for proper chillies growing with sensors and IoT stuff 💪.",
+    "sourceLink": "https://github.com/lubosmato/esp32-grow-peppers",
+    "used": [
+      "IoT",
+      "ESP32",
+      "CAM OV2640",
+      "ESP-IDF",
+      "Electronics",
+      "C++",
+      "MQTT",
+      "Web Workers",
+      "Web Push Notifications",
+      "TypeScript",
+      "Svelte",
+      "WebSocket",
+      "Express",
+      "Docker",
+      "Nginx",
+      "Let's Encrypt"
+    ]
+  },
+  {
     "link": "https://lubosmato.github.io/ascii-camera/",
     "image": "/img/ascii-camera.png",
     "animatedImage": "/img/ascii-camera.png",
