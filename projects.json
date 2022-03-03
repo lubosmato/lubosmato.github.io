@@ -30,7 +30,7 @@
     "image": "/img/ascii-camera.png",
     "animatedImage": "/img/ascii-camera.png",
     "title": "ASCII Camera",
-    "description": "Motivation: It just look cool 🙂",
+    "description": "Motivation: It just looks cool 🙂",
     "sourceLink": "https://github.com/lubosmato/ascii-camera",
     "used": [
       "p5.js",
