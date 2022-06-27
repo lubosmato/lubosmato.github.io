@@ -1,5 +1,25 @@
 [
   {
+    "link": "https://github.com/lubosmato/e-ink-wireless-display",
+    "image": "https://raw.githubusercontent.com/lubosmato/e-ink-wireless-display/main/photo.jpg",
+    "animatedImage": "https://raw.githubusercontent.com/lubosmato/e-ink-wireless-display/main/photo.jpg",
+    "title": "E-Ink wireless display",
+    "description": "Everyday morning I would love to see current shopping list, weather, how long will be commuting and other useful things. Seems like putting a tablet on wall would do the trick but I wanted something more challenging. 💪",
+    "sourceLink": "https://github.com/lubosmato/e-ink-wireless-display",
+    "used": [
+      "IoT",
+      "ESP32",
+      "Electronic design",
+      "E-Ink 9.7\" display",
+      "Low power electronics",
+      "ESP-IDF",
+      "C++",
+      "MQTT",
+      "3D printing",
+      "CAD"
+    ]
+  },
+  {
     "link": "https://grow.lubosmatejcik.cz/",
     "image": "/img/grow-peppers-grow.png",
     "animatedImage": "/img/grow-peppers-grow.png",
