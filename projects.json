@@ -1,5 +1,34 @@
 [
   {
+    "link": "https://github.com/lubosmato/clock",
+    "image": "/img/clock.gif",
+    "animatedImage": "/img/clock.gif",
+    "title": "Clock",
+    "description": "Transparent non-interactive window app showing current time located in the bottom right corner of a desktop. Wanted to try Tauri and see the clock while having taskbard hidden.",
+    "sourceLink": "https://github.com/lubosmato/clock",
+    "used": [
+      "Tauri",
+      "React",
+      "Rust",
+      "TypeScript"
+    ]
+  },
+  {
+    "link": "https://github.com/lubosmato/wled-ambilight",
+    "image": "/img/ambilight.png",
+    "animatedImage": "/img/ambilight.gif",
+    "title": "WLED Ambilight",
+    "description": "Yet another Ambilight solution. This time for WLED. Tray app connects to WLED device and sends average border colors of a screen. Colors are calculated on GPU with the aim to get the lowest possible CPU/GPU usage. It is my first bigger project in Rust language. Learnt a bit of DirectX and some Windows API features.",
+    "sourceLink": "https://github.com/lubosmato/wled-ambilight",
+    "used": [
+      "Rust",
+      "DirectX",
+      "Windows API",
+      "WLED",
+      "ESP32"
+    ]
+  },
+  {
     "link": "https://github.com/lubosmato/e-ink-wireless-display",
     "image": "https://raw.githubusercontent.com/lubosmato/e-ink-wireless-display/main/photo.jpg",
     "animatedImage": "https://raw.githubusercontent.com/lubosmato/e-ink-wireless-display/main/photo.jpg",
